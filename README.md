@@ -12,7 +12,7 @@ The Claude Memory feature must be enabled in Settings > Capabilites.
 This was a recent addition to the original AMN: though limited in capacity (30 edits, 200 characters/edit, 6KB total), we saw a valuable opportunity to automate the AMN. This is an early stage experiment.
 
 ## Quick start
-1. Turn the Claude Memory feature ON or OFF in Settings > Capabilities
+1. Turn the Claude Memory feature ON or OFF in Settings > Capabilities > Generate memory from chat history
 2. Create a new Claude Project
 3. Copy/Paste the amn_v0.3.md content in the Project Instructions
 4. Start a conversation
